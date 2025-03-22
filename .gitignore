@@ -1,4 +1,4 @@
-# Fichiers à ignorer  
+# Fichiers Python  
 __pycache__/  
 *.py[cod]  
 *$py.class  
@@ -17,3 +17,7 @@ env/
 
 # Fichiers temporaires  
 .temp/  
+
+# Fichiers système  
+.DS_Store  
+Thumbs.db  
